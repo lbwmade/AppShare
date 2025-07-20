@@ -786,6 +786,7 @@ async function fetchAnnouncement() {
     contentDiv.innerHTML = `<div class="error-text">
       <p>欢迎！通过这个小网站，可以直接看到我Github中Share库的文件和内容啦</p>
       <p>想的是有了这个分享库，未来可以用Share库比较方便地分享放在Github中的一些内容，嘿嘿</p>
+      <p></p>
       <i class="fas fa-exclamation-triangle"></i> 
       ${escapeHtml(error.message)}
       <button onclick="fetchAnnouncement()" class="refresh-button" style="margin-top:10px;">
