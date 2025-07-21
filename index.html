@@ -675,11 +675,11 @@ body[data-theme="dark"] .stat-label {
 <div class="stats-bar">
   <div class="stat-item">
     <div class="stat-value" id="release-count">15</div>
-    <div class="stat-label">资源发布</div>
+    <div class="stat-label">App数</div>
   </div>
   <div class="stat-item">
     <div class="stat-value" id="file-count">42</div>
-    <div class="stat-label">文件总数</div>
+    <div class="stat-label">安装包数</div>
   </div>
   <div class="stat-item">
     <div class="stat-value" id="user-count">128</div>
@@ -692,7 +692,7 @@ body[data-theme="dark"] .stat-label {
 </div>
 
 <div class="release-section">
-  <h2 class="section-title"><i class="fas fa-box-open"></i> 文件发布</h2>
+  <h2 class="section-title"><i class="fas fa-box-open"></i> App发布</h2>
   <div id="releases">
     <div class="loading-text"><i class="fas fa-spinner"></i> 加载发布文件中...</div>
   </div>
@@ -792,7 +792,7 @@ async function fetchAnnouncement() {
   }
 }
 
-// 文件发布功能
+// App发布功能
 async function fetchReleases() {
   try {
     const response = await fetch(`https://api.github.com/repos/lbwmade/AppShare/releases`);
