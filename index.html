@@ -784,8 +784,9 @@ async function fetchAnnouncement() {
     contentDiv.innerHTML = (text || '暂无公告').replace(/\n/g, '<br>');
   } catch (error) {
     contentDiv.innerHTML = `<div class="error-text">
-      <p>欢迎！通过这个小网站，可以直接看到我Github中Share库的文件和内容啦</p>
-      <p>想的是有了这个分享库，未来可以用Share库比较方便地分享放在Github中的一些内容，嘿嘿</p>
+      <p>欢迎！Have a good time! 希望这里有您正需要的内容</p>
+      <p>因为直接访问Github网站会比较慢，通过这个小网站，可以直接看到我Github中Share库的文件和内容啦！</p>
+      <p>想的是通过这个分享库，未来就可以用Share库比较方便地分享一些放在Github中的内容啦！</p>
       <p></p>
       <i class="fas fa-exclamation-triangle"></i> 
       ${escapeHtml(error.message)}
