@@ -1,4 +1,5 @@
       <p> Hello! Welcome! </p> 
-      <p>直接访问Github的话可能会比较慢，通过这个小网站的话，就可以直接看到我Github中Share库的文件和内容</p>
+      <p>直接访问Github的话可能会比较慢</p
+      <p>现在通过这个小网站的话，就可以直接看到我Github中Share库的文件和内容</p>
       <p>未来就可以用Share库比较方便地分享一些放在Github中的内容啦！！</p>
-      <p></p>
+      <p>Have A Good Time! ! !</p>
