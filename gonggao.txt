@@ -1,6 +1,7 @@
       <p> Hello! Welcome everyone! </p> 
       <p>Here is my App sharing and communication platform</p>
       <p>Have A Good Time! ! !</p>
-      <p>dmg结尾的是macOS版本，deb结尾的是Linux版本，exe和msi结尾的是Windows版本</p>
-      <p>apk结尾的是安卓Android版本，ipa结尾的是苹果iOS版本</p>
+      <p>exe和msi结尾的是Windows版本安装包</p>
+      <p>dmg结尾的是macOS版本安装包，deb结尾的是Linux版本安装包</p>
+      <p>apk结尾的是安卓Android版本安装包，ipa结尾的是苹果iOS版本安装包</p>
       <p>app.tar.gz结尾的是压缩包</p>
