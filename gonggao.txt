@@ -1,4 +1,5 @@
-      <p>安装包放在Github的Releases, 虽然用了代理大多可以直接加载出安装包, 但有时也要科学上网才可以加载出安装包 [基本只要用一次，之后就可以不用了，除非网站更新，都可以直接加载]</p>
+      <p> 虽然用代理大多可以直接加载出安装包, 但有时要科学上网才能加载出安装包 [安装包放在Github的Releases]</p>
+      <p> [基本只要用一次，之后就可以不用了，除非网站更新，都可以直接加载]</p>
       <p></p>
       <p> Hello! Welcome everyone! Here is my App sharing and communication platform Have A Good Time! ! !</p>
       <p></p>
