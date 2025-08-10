@@ -1,10 +1,10 @@
-      <p>安装包放在Github的Releases了</p>
-      <p>虽然用了代理大多可以直接加载出安装包</p>
-      <p>但有时也要科学上网才可以加载出安装包[用一次之后，之后就可以不用，就可以直接加载]</p>
-      <p> Hello! Welcome everyone! </p> 
-      <p>Here is my App sharing and communication platform</p>
-      <p>Have A Good Time! ! !</p>
-      <p>exe和msi结尾的是Windows版本安装包</p>
-      <p>dmg结尾的是macOS版本安装包，deb结尾的是Linux版本安装包</p>
-      <p>apk结尾的是安卓Android版本安装包，ipa结尾的是苹果iOS版本安装包</p>
-      <p>app.tar.gz结尾的是压缩包</p>
+      <p>安装包放在Github的Releases了,虽然用了代理大多可以直接加载出安装包</p>
+      <p>但有时也要科学上网才可以加载出安装包</p>
+      <p>[基本只要用一次，之后就可以不用了，除非网站更新，都可以直接加载]</p>
+      <p> Hello! Welcome everyone! Here is my App sharing and communication platform Have A Good Time! ! !</p>
+      <p>Windows: exe和msi结尾的安装包</p>
+      <p>macOS: dmg结尾的安装包</p>
+      <p>Linux: deb结尾的安装包</p>
+      <p>安卓Android: apk结尾的安装包</p>
+      <p>苹果iOS: ipa结尾的安装包</p>
+      <p>压缩包: app.tar.gz</p>
