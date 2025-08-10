@@ -1,3 +1,6 @@
+      <p>安装包放在Github的Releases了</p>
+      <p>虽然用了代理大多可以直接加载出安装包</p>
+      <p>但有时也要科学上网才可以加载出安装包[用一次之后，之后就可以不用，就可以直接加载]</p>
       <p> Hello! Welcome everyone! </p> 
       <p>Here is my App sharing and communication platform</p>
       <p>Have A Good Time! ! !</p>
