@@ -1,6 +1,0 @@
-git remote rm origin 
-git remote add origin git@github.com:lbwmade/AppShare.git 
-git checkout -b main 
-git add .
-git commit -m "github action update"
-git push origin main
